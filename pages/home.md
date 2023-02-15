@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work and portfolio with multiple layouts and styles."
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate
+title: "ANONBD"
+description: "Learn Cyber Security, Ethical Hacking, PenTesting, Web Design, Graphic Design, Programming And More."
+meta_description: "Learn Cyber Security, Ethical Hacking, PenTesting, Web Design, Graphic Design, Programming And More."
+meta_title: ANONBD
 subscribe: false
 
 projects:
