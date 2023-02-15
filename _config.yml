@@ -124,7 +124,7 @@ analytics:
   google_analytics_id: "G-TN218T8Y84"
 
 disqus:
-  shortname: "cyberassemble" # Your disqus shortcode. leave this blank to disable comments globally
+  shortname: "" # Your disqus shortcode. leave this blank to disable comments globally
 
 mailchimp:
   form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=0809de156dcbaee2d1d550c6e&amp;id=004693e2f0
