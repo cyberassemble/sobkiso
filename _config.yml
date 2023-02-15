@@ -117,14 +117,14 @@ header:
 darkmode:
   enable_dark_mode: true
   show_dark_mode_toggle_in_header: true
-  show_dark_mode_toggle_in_bottom: false
+  show_dark_mode_toggle_in_bottom: true
   show_dark_mode_toggle_in_mobile_menu: true
 
 analytics:
-  google_analytics_id: ""
+  google_analytics_id: "G-TN218T8Y84"
 
 disqus:
-  shortname: "" # Your disqus shortcode. leave this blank to disable comments globally
+  shortname: "cyberassemble" # Your disqus shortcode. leave this blank to disable comments globally
 
 mailchimp:
   form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=675276692aebec1c007f8156d&amp;id=3e3da720c2
@@ -140,8 +140,8 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Curate"
-  footer_description: "Curate is a creative portfolio for Jekyll by Zerostatic Themes."
+  footer_title: "Anonbd"
+  footer_description: "Learn Cyber Security, Ethical Hacking, PenTesting, Web Design, Graphic Design, Programming And More."
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true
