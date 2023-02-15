@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/"
+baseurl: "/blog"
 url: ""
 permalink: pretty
 markdown: kramdown
@@ -14,7 +14,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "https://anonbd.men/blog/page/:num"
+paginate_path: "/blog/page/:num"
 
 collections:
   projects:
