@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hosting Your Static Site For Free"
-date: 2024-02-15T05:22:42Z
+date: 2023-02-15T05:22:42Z
 authors: ["Sage Kirk", "Mike Vance"]
 categories: ["Hosting", "Development"]
 description: "Hosting your website as a static site will improve performance and improve security."
