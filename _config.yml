@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "/"
-url: ""
+url: "https://anonbd.men"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
