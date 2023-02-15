@@ -4,3 +4,40 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+  
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+[[plugins]]
+package = "netlify-plugin-image-optim"
+
+[[plugins]]
+  package = "netlify-plugin-js-obfuscator"
+
+  # All inputs are optional, so you can omit this section.
+  # Defaults are shown below.
+  # You can also refer to `javascript-obfuscator`’s documentation: https://github.com/javascript-obfuscator/javascript-obfuscator.
+  [plugins.inputs]
+   # Compact code output on one line.
+     compact = false
+   # Enables numbers conversion to expressions
+     numbersToExpressions = true
+   # Enables additional code obfuscation through simplification.
+     simplify = true
+   # Randomly shuffles the stringArray array items
+     shuffleStringArray = true
+   # Splits literal strings into chunks with length of splitStringsChunkLength option value
+     splitStrings = true
+
+[[plugins]]
+  package = "netlify-plugin-submit-sitemap"
+
+	[plugins.inputs]
+	
+	baseUrl = "https://example.com"
+	sitemapPath = "/sitemap.xml"
+	ignorePeriod = 0
+	providers = [
+		"google",
+		"yandex"
+	]
