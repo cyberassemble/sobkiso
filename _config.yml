@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/blog"
-url: ""
+baseurl: "/"
+url: "https://anonbd.men"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
