@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/"
+baseurl: ""
 url: "https://anonbd.men"
 permalink: pretty
 markdown: kramdown
@@ -13,8 +13,8 @@ plugins:
   - jekyll-environment-variables
   - jekyll-paginate
 
-paginate: 6
-paginate_path: "/blog/page/:num"
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 collections:
   projects:
