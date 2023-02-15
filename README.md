@@ -2,17 +2,15 @@
 
 Jekyll Curate is a portfolio theme with multiple project layouts.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0f591823-559a-499c-817a-49b225225606/deploy-status)](https://app.netlify.com/sites/visionary-cucurucho-b785b5/deploys)
+
 ### Documentation
 
 [Live Docs](https://www.zerostatic.io/docs/jekyll-curate)
 
 ### Demo
 
-[Live Demo](https://jekyll-curate.netlify.app/)
-
-### Screenshot
-
-![Jekyll Curate Theme screenshot](https://www.zerostatic.io/theme/jekyll-curate/jekyll-curate-screenshot.png)
+[Live Demo](https://anonbd.men/)
 
 ## Install
 
