@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "/"
-url: "https://anonbd.men"
+url: ""
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -12,7 +12,6 @@ collections_dir: collections
 plugins:
   - jekyll-environment-variables
   - jekyll-paginate
-  - jekyll-seo-tag
 
 paginate: 6
 paginate_path: "/blog/page/:num"
@@ -144,7 +143,7 @@ footer:
   footer_title: "Anonbd"
   footer_description: "Learn Cyber Security, Ethical Hacking, PenTesting, Web Design, Graphic Design, Programming And More."
   enable_social_media_icons: true
-  enable_contact_details: false
+  enable_contact_details: true
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
