@@ -1,42 +1,32 @@
 [
   {
-    "title": "Twitter",
-    "fa_icon": "fab fa-twitter",
-    "url": "https://www.zerostatic.io"
+    "title": "Telegram",
+    "fa_icon": "fab fa-telegram",
+    "url": "https://t.me/cyberassemble"
   },
   {
     "title": "Github",
     "fa_icon": "fab fa-github",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Discord",
-    "fa_icon": "fab fa-discord",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Tiktok",
-    "fa_icon": "fab fa-tiktok",
-    "url": "https://www.zerostatic.io"
+    "url": "https://github.com/cyberassemble"
   },
   {
     "title": "Facebook",
     "fa_icon": "fab fa-facebook-square",
-    "url": "https://www.zerostatic.io"
+    "url": "https://www.facebook.com/profile.php?id=100089658131089"
   },
   {
     "title": "Instagram",
-    "fa_icon": "fab fa-instagram-square",
-    "url": "https://www.zerostatic.io"
+    "fa_icon": "fas fa-map-marked-alt",
+    "url": "https://instagram.com/imnoob_xd"
   },
   {
-    "title": "Linkedin",
-    "fa_icon": "fab fa-linkedin",
-    "url": "https://www.zerostatic.io"
+    "title": "Google",
+    "fa_icon": "fab fa-instagram-square",
+    "url": "https://g.page/saikot-house?share"
   },
   {
     "title": "Mailchimp",
     "fa_icon": "fab fa-mailchimp",
-    "url": "https://www.zerostatic.io"
+    "url": "https://mailchi.mp/03b692db7135/subscribe"
   }
 ]
