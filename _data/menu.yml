@@ -38,14 +38,14 @@ main:
   
 
 footer_primary:
-  - name: "Project Layout 1"
-    url: /projects/project-1/
-  - name: "Project Layout 2"
-    url: /projects/project-2/
-  - name: "Project Layout 3"
-    url: /projects/project-3/
-  - name: "Project Layout 4"
-    url: /projects/project-4/
+  - name: "Windows"
+    url: /projects/windows/
+  - name: "Themes"
+    url: /projects/themes/
+  - name: "PHP Scripts"
+    url: /projects/php-scripts/
+  - name: "Wordpress"
+    url: /projects/wordpress/
 
 footer_secondary:
   - name: Blog
