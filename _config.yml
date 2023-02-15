@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "/"
-url: ""
+url: "https://anonbd.men"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -65,7 +65,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Curate"
+title: "ANONBD"
 category_dir: category
 
 colors:
@@ -97,7 +97,7 @@ fonts:
   logo: "DM Sans"
 
 logo:
-  logo_text: "Jekyll Curate"
+  logo_text: "ANONBD"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -154,5 +154,5 @@ footer:
 bottom:
   enable_bottom: false # show/hide the entire bottom (below the footer)
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  copyright_text: "© 2023 CYBERASSEMBLE"
 
