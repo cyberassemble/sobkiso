@@ -69,6 +69,7 @@ DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-environment-variables
   jekyll-paginate
+  jekyll-seo-tag
   webrick (~> 1.7)
 
 BUNDLED WITH
