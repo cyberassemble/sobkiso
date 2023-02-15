@@ -146,7 +146,7 @@ footer:
   enable_contact_details: true
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
-  enable_menu_footer_tertiary: false
+  enable_menu_footer_tertiary: true
   footer_primary_menu_title: "Product"
   footer_secondary_menu_title: "Company"
   footer_tertiary_menu_title: "Other"
