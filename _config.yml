@@ -127,7 +127,7 @@ disqus:
   shortname: "cyberassemble" # Your disqus shortcode. leave this blank to disable comments globally
 
 mailchimp:
-  form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=675276692aebec1c007f8156d&amp;id=3e3da720c2
+  form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=0809de156dcbaee2d1d550c6e&amp;id=004693e2f0
 
 contact_form: 
   use_netlify_form: true
