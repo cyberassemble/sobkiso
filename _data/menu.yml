@@ -63,6 +63,9 @@ footer_secondary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
+  - name: DMCA
+    url: /dmca/
+    weight: 5
 
 footer_tertiary:
   - name: Privacy Policy
