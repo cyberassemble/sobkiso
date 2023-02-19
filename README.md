@@ -1,12 +1,14 @@
 # Jekyll Curate Premium Theme
 
-Jekyll Curate is a portfolio theme with multiple project layouts.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0f591823-559a-499c-817a-49b225225606/deploy-status)](https://app.netlify.com/sites/visionary-cucurucho-b785b5/deploys)
+Jekyll Curate pro is a portfolio theme with multiple project layouts.
 
 ### Documentation
 
-[Live Docs](https://www.zerostatic.io/docs/jekyll-curate)
+[Live Docs](https://docs.anonbd.men/)
+
+## Join Our telegram
+
+[Cyberassemble](https://t.me/cyberassemble)
 
 ### Demo
 
@@ -42,7 +44,7 @@ This theme works with GitHub Pages. If you are creating a GitHub Pages "Project 
 
 ```yaml
 # _config.yml
-baseurl: "/jekyll-curate-pro" # This should be the name of your repo
+baseurl: "/curate-pro" # This should be the name of your repo
 ```
 
 ## Credits
