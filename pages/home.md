@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "ANONBD"
+title: "Sobkiso"
 description: "Learn Cyber Security, Ethical Hacking, PenTesting, Web Design, Graphic Design, Programming And More."
 meta_description: "Learn Cyber Security, Ethical Hacking, PenTesting, Web Design, Graphic Design, Programming And More."
-meta_title: ANONBD
+meta_title: Sobkiso
 subscribe: false
 
 projects:
