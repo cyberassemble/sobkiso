@@ -127,12 +127,12 @@ disqus:
   shortname: "" # Your disqus shortcode. leave this blank to disable comments globally
 
 mailchimp:
-  form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=0809de156dcbaee2d1d550c6e&amp;id=004693e2f0
+  form_action_url: https://nullbite.us13.list-manage.com/subscribe/post?u=0809de156dcbaee2d1d550c6e&amp;id=0c6eb3e458&amp;f_id=006a93e2f0
 
 contact_form: 
   use_netlify_form: false
   use_formspree_form: true
-  formspree_endpoint: https://formspree.io/f/moqyklqv
+  formspree_endpoint: https://formspree.io/f/xayzqkna
 
 menu: 
   show_dropdown_items_in_mobile_menu: false
