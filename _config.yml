@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://anonbd.men"
+url: "https://sobkiso.xyz"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -65,7 +65,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "ANONBD"
+title: "Sobkiso"
 category_dir: category
 
 colors:
@@ -97,7 +97,7 @@ fonts:
   logo: "DM Sans"
 
 logo:
-  logo_text: "ANONBD"
+  logo_text: "Sobkiso"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -130,8 +130,8 @@ mailchimp:
   form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=0809de156dcbaee2d1d550c6e&amp;id=004693e2f0
 
 contact_form: 
-  use_netlify_form: true
-  use_formspree_form: false
+  use_netlify_form: false
+  use_formspree_form: true
   formspree_endpoint: https://formspree.io/f/moqyklqv
 
 menu: 
@@ -140,7 +140,7 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Anonbd"
+  footer_title: "Sobkiso"
   footer_description: "Learn Cyber Security, Ethical Hacking, PenTesting, Web Design, Graphic Design, Programming And More."
   enable_social_media_icons: true
   enable_contact_details: true
@@ -154,5 +154,5 @@ footer:
 bottom:
   enable_bottom: false # show/hide the entire bottom (below the footer)
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2023 CYBERASSEMBLE"
+  copyright_text: "© 2023 SOBKISO"
 
