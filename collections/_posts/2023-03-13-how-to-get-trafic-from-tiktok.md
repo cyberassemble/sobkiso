@@ -83,7 +83,7 @@ Read also : 911 Alternatives ( https://t.me/c/1154385673/8318 )
 
 ## Video uniqueizer:
 
--  uniq.gmbl.ng (1~10 at a time)
+-  [](uniq.gmbl.ng) (1~10 at a time)
 -  @clicklead_media_bot (for times 1~20) Telegram.
 
 In order to make one video - a lot!
@@ -111,7 +111,9 @@ My creatives use the CapCut convector, which is enough to add text, music and ef
 5. You buy/create gmail mail with 6 months of release
 6. Install profile
 
-Video tutorial on installing the Dolphin Anty profile - http://youtube.com/watch?v=tC7YCApHfnc
+Video tutorial on installing the Dolphin Anty profile
+
+[![Video Tutorial](https://img.youtube.com/vi/tC7YCApHfnc/0.jpg)](https://www.youtube.com/watch?v=tC7YCApHfnc)
 
 ## Creation of creative:
 
