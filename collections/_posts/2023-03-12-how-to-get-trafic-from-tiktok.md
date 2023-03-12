@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HOW TO GET TRAFFIC FROM TIK TOK USING LOGS AND AUTO REGS"
-date: 2023-02-13T09:49:03Z
+date: 2023-03-12T09:49:03Z
 authors: ["Mike Vance"]
 categories: ["Pentesting"]
 description: A way to get traffic to projects from logs TikTok. High-quality video uniqueization for massive uploads and A way to get traffic to projects from TikTok autoregistrations.
