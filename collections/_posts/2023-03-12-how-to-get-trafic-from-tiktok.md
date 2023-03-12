@@ -38,7 +38,7 @@ Whether you’re looking to get more clicks or more sales, use these five easy s
 - Recommendations for bays
 - What can affect the exit in the Tik-Tok recommendation
 
-![Here I present a manual for working with traffic from Tik-Tok]("/assets/images/blog/images.jpeg)
+![Her]("assets/images/blog/images.jpeg)
 
 ## Here I present a manual for working with traffic from Tik-Tok. 
 
@@ -54,7 +54,7 @@ Base For Work
 
 ## With Logs
 
-1. Antidetect Browser ~ Dolphin Anty | 1000 free profiles for 4 days ( anty.dolphin.ru.com/ru )
+1. Antidetect Browser ~ Dolphin Anty | 1000 free profiles for 4 days ( anty.[](dolphin.ru.com/ru)
 2. Logs Tik-Tok account ~ login:password or cookies | You can find them: on the Market, from logs or from the sellers.
 3. Individual proxies : ipv4
 -  @Proxysoxybot - tg ( opt )
@@ -65,13 +65,13 @@ Base For Work
 1. Antidetect browser - Incogniton | 10 free profiles ( incogniton.com/ru )
 2. To create Tik-Tok accounts:
 -  Gmail mail with 6+ months, for autoregistration
--  Farm cookies ( Simplifies your work - https://trafficcardinal.com/post/kak-nagulyat-cookies )
+-  Farm cookies ( Simplifies your work - [](https://trafficcardinal.com/post/kak-nagulyat-cookies)
 3. Individual proxy ipv4 (from 1 month):
 -  proxy6.net
 -  proxyline.net
 
 
-Read also : 911 Alternatives ( https://t.me/c/1154385673/8318 )
+### Read also : [911 Alternatives](/blog/2023-03-01-911-Alternatives-List-2023/)
 
 ## Creatives (Video for the strait):
 
