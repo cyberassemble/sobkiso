@@ -7,8 +7,6 @@ categories: ["Pentesting"]
 description: A way to get traffic to projects from logs TikTok. High-quality video uniqueization for massive uploads and A way to get traffic to projects from TikTok autoregistrations.
 thumbnail: "/assets/images/blog/IMG_20230313_024113.jpg"
 image: "/assets/images/blog/IMG_20230313_024113.jpg"
-comments: false
-subscribe: true
 ---
 
 **About Tiktok**
@@ -58,7 +56,7 @@ Base For Work
 2. Logs Tik-Tok account ~ login:password or cookies | You can find them: on the Market, from logs or from the sellers.
 3. Individual proxies : ipv4
 -  @Proxysoxybot - tg ( opt )
--  922proxy.com ( opt )
+-  [](922proxy.com) ( opt )
 
 ## With Autoregistration
 
@@ -67,8 +65,8 @@ Base For Work
 -  Gmail mail with 6+ months, for autoregistration
 -  Farm cookies ( Simplifies your work - [](https://trafficcardinal.com/post/kak-nagulyat-cookies)
 3. Individual proxy ipv4 (from 1 month):
--  proxy6.net
--  proxyline.net
+-  [](proxy6.net)
+-  [](proxyline.net)
 
 
 ### Read also : [911 Alternatives](/blog/2023-03-01-911-Alternatives-List-2023/)
@@ -192,4 +190,4 @@ Well, I think you understand what I mean. That rivers are affected by everything
 
 Thank you for reading my article, waiting for your feedback in the topic!
 
-If you have any questions, ask them only in the topic!
+If you have any questions, ask them only in the topic! :joy:
