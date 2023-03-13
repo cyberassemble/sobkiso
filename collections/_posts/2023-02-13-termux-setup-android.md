@@ -9,6 +9,7 @@ thumbnail: "/assets/images/blog/IMG_20230220_044004.jpg"
 image: "/assets/images/blog/IMG_20230220_044004.jpg"
 comments: false
 subscribe: true
+toc: true
 ---
 
 In this tutorial we will show you how you can setup termux in Android for PenTesting. and use all Python tool and other tool.
