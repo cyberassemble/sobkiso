@@ -14,7 +14,7 @@ comments: false
 
 Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
 
-**Github Link [](https://github.com/Ayhuuu/Creal-Stealer)**
+> Github Link [](https://github.com/Ayhuuu/Creal-Stealer)
 
 ## Features:
 »Startup
