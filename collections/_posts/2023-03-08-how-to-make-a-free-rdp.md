@@ -56,13 +56,15 @@ jobs:
 
 3. Go to **"Actions"** and look for **"RDP"** for Windows or **"server"** for Linux.
 
-IP: [](https://dashboard.ngrok.com/endpoints/status)
+IP: [dashboard.ngrok.com](https://dashboard.ngrok.com/endpoints/status)
 Time: 6 hours
 Config windows.
 client: RDP
 User: rapmind
 Password: tester2022
 Config linux
+
+**Read Also [HOW TO GET TRAFFIC FROM TIK TOK USING LOGS AND AUTO REGS](/blog/2023-03-12-how-to-get-trafic-from-tiktok/)
 
 ~~YOU CAN GET DISABLED ACTIONS!!!!~~
 
