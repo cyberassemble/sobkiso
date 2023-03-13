@@ -8,6 +8,7 @@ description: "I won't say the product is good or bad as I haven't used it and ca
 thumbnail: "/assets/images/blog/python-.jpg"
 image: "/assets/images/blog/python-.jpg"
 comments: false
+toc: true
 ---
 
 # CLIPPER IN 30 MINUTES
