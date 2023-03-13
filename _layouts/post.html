@@ -35,7 +35,7 @@ body_classes: page-post
           </div>
         {% endif %}
         
-        <div class="content">{{ content }}</div>
+        <div class="content">{{ content | toc }} {{ content }}</div>
 
         {% if page.categories %}
         <div class="categories">
